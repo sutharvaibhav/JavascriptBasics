@@ -1,2 +1,2 @@
 # JavascriptPractice
-YT-JavaScriptTutorials-Practices
+YT-JavaScriptTutorials-Chai&Code
