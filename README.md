@@ -1,2 +1,2 @@
-# JavascriptTutorial
-YT-JavaScript-Tutorials-Practice
+# JavascriptPractice
+YT-JavaScriptTutorials-Practices
